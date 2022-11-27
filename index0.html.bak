@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/estilo1.css">
+</head>
+<body>
+<header>
+<center><font face="Arial" color="black"><h1>ENTRETENIMIENTO: SONIC THE HEDGEHOG</center></h1></font>
+<center><font face="Arial" color="black"><h1>2DO PARCIAL CSS-HTML INF-113 27/11/2022</h1></font></center>
+</header>
+<section>
+<center>
+<font face="Arial" color="black"><h1>ESPINOZA GUTIERREZ ANTHONY ALEXANDER C.I. 14045439 L.P. </h1></font></center>
+<font face="Arial" color="black"><p>Buenos dias/tardes/noches Licenciada, sobre el examen del 2do Parcial de INF-113 sobre el tema de CSS-HTML, decidi hacer mi sitio web con la tematica de entretenimiento, un videojuego entra en esa categoria y es la franquicia de Sonic the Hedgehog, mi pagina tratara de informacion sobre los personajes principales de esta saga de videojuegos popular ahora en este año 2022. La pagina tendra la informacion de los personajes de Sonic, Tails, Knuckles y Amy, quienes son, su personalidad y su aparicion a lo largo de los videojuegos.</p></font>
+<center><img src="images/sonic.jpg" width="550" height="285"></center>
+<font face="Arial" color="black"><p>Hago esta pagina porque me gusto mucho esta franquicia de videojuegos y al ver su segunda pelicula estrenada en este año me dio mucha felicidad y satisfaccion, personalmente esta saga me genera calma del estres de la vida diaria, ya que ultimamente al iniciar este 2022 me llego una crisis nerviosa, es decir me pongo muy nervioso y tiendo a desanimarme muy facil cuando hay problemas. De los 4 personajes, mi personaje favorito es Tails, de quien al verlo, me genera calma y felicidad de los problemas de la vida diaria, me motiva mucho cada dia, tiene una frase muy sabia que lo uso: "Cree en ti mismo", gracias a el mis problemas de nerviosismo y tristeza poco a poco van solucionandose, por lo que hago esta pagina para mostrar un resumen de la franquicia. </p></font>
+<center><img src="images/sonic2.jpg"width="550" height="285"></center>
+</section>
+<footer><center>
+<font face="Arial" color="black"><p>Agradezco mucho su atencion Licenciada, ahora dejo aqui abajo los links de las demas paginas hechas por mi persona:</center>
+<center><font face="Arial" color="black"><b>LISTA DE PERSONAJES:</b>
+<br>
+<br>
+<a href="index4.html"><b>SONIC THE HEDGEHOG</b></a>
+<br>
+<br>
+<a href="index.html"><b>MILES "TAILS" PROWER</b></a>
+<br>
+<br>
+<a href="index2.html"><b>KNUCKLES THE ECHIDNA</b></a>
+<br>
+<br>
+<a href="index3.html"><b>AMY ROSE<b></a></font>
+<br>
+<br>
+<center><b>DERECHOS RESERVADOS, 2022 </b></center>
+</center>
+</footer>
+</body>
+</html>
